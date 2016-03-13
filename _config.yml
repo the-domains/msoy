@@ -1,0 +1,14 @@
+layout_spectrum: 0.2829787
+color:
+  saturation: 0
+  lightness: 0
+  brandStrength: 0.1595745
+  brandColors:
+    - '#125688'
+    - '#FFFFFF'
+    - '#382F39'
+    - '#C5896E'
+    - '#CDCECF'
+  rhythmicContrast: 0
+typography_spectrum: 0.5106383
+name: Msoy
